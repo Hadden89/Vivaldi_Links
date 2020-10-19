@@ -1,10 +1,13 @@
 # Adblocker Filter Lists
 A bunch of useful lists for the native blocker.
+
+Of course, you can use them on your blocker too (ublock Origin suggested).
+
 ***
 **NOTES:** 
-* Adguard lists may easily cause broken pages; 
-* I don't care about cookies as a slight chance to break pages;
-* Nanodefender list may be useless (for the native blocker);
+* **Adguard lists could break pages;** 
+* I don't care about cookies have a **slight** chance to break pages;
+* **Nano lists are questionable as the extension is dead.**
 * Some lists are already baked in. Just enable them.
 ***
 
@@ -16,6 +19,7 @@ A bunch of useful lists for the native blocker.
 * [EasyPrivacy](https://downloads.vivaldi.com/easylist/easyprivacy-current.txt)
 * [Fanboy Enhanced Tracking](https://www.fanboy.co.nz/enhancedstats.txt)
 * [First Party Trackers](https://hostfiles.frogeye.fr/firstparty-trackers.txt)
+* [Fuck FuckAdblock](https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt)
 * [I\_don't\_care\_about\_cookies](https://www.i-dont-care-about-cookies.eu/abp/)
 * [Malware Domain](https://easylist-downloads.adblockplus.org/malwaredomains_full.txt)
 * [Nano Base](https://github.com/NanoAdblocker/NanoFilters/blob/master/NanoFilters/NanoBase.txt)
