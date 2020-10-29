@@ -1,7 +1,7 @@
 ##### Vivaldi Pet bugs
-(Some of these are could be fixed/invalid/CNR or merged to others VBs)
+(Some of these could be already fixed/invalid/CNR or merged to others VBs)
 ***
-
+* VB-73047 > Page won't stay loaded properly (happens on yahoo and could cause dead birds with adblocker on)
 * (VB-73637) Menu keyboard navigation breaks after inserting emoji
 * (VB-73638) Emoji insertion is buggy in Vivaldi Button Menu
 * (VB-73639) Editing the “Customize” entry in address bar button menus fails
