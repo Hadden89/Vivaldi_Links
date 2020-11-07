@@ -1,19 +1,26 @@
 ##### Vivaldi Pet bugs
 (Some of these could be already fixed/invalid/CNR or merged to others VBs)
 ***
+* [VAB-2623](https://forum.vivaldi.net/post/410520) > Flag may help with mobile hangs
+* [VAB-2535](https://forum.vivaldi.net/topic/51827/webauthn-u2f-fido-not-working) > WebAuthn/U2F/FIDO auth is broken.
+***
+* VB-73873 > "Vivaldi doesn't display type of site blocked permissions"
+* VB-73874 > "In the Web Pages Vivaldi settings nothing happens when I pres reset settings button"
 * VB-73047 > Page won't stay loaded properly (happens on yahoo and could cause dead birds with adblocker on)
 * VB-73637 > Menu keyboard navigation breaks after inserting emoji
 * VB-73638 > Emoji insertion is buggy in Vivaldi Button Menu
 * VB-73639 > Editing the “Customize” entry in address bar button menus fails
-* VB-73108~VB-71894 > Severe issues on Win 7 SP1 x32: A lot of threads/CPU usage that tend hang the browser/PC especially during downloads.
+* [VB-73108~VB-71894](https://forum.vivaldi.net/post/410082) > Severe issues on Win 7 SP1 x32: A lot of threads/CPU usage that tend hang the browser/PC especially during downloads.
 * VB-73009 > Several extension favicons (eg Onetab) are broken.
 * VB-68668 > "Back to safety" (Privacy/cert error) in new tab opens chromium start page.
+* VB-63880 > [Regression] Dead bird closing Vivaldi
 * [VB-68282](https://forum.vivaldi.net/topic/47673/move-v-menu-to-bar-below-then-eliminate-entire-wasted-row-space) > Move V button to the toolbar.
 * VB-68237 > New private tab in customized menu don't work.
 * VB-68133 > Missing captions on PIP
 * VB-67141 > \[Regression\] Can not select tab from tab stack thumbnail
 * VB-67042 > Right-click Close Tab Fails in a Tab Stack
 * [FIXED?] VB-66334 > Adblocker don't shown blocked elements under "stress condition". 
+* VB-66578 > "strange white flash upon new tab"
 * [VB-66045](https://forum.vivaldi.net/topic/31409/bookmarklets-replaces-the-url-in-the-address-bar) > Bookmarklets replaces the URL in the address bar
 * VB-66311 > Local adblocker lists are never imported (valid or not)
 * VB-65663 > Custom.CSS can't have spaces in filename
